@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal oil-painting-style portrait of a figure seen from above, standing at the center of a web of glowing silver threads stretching outward to other distant figures at the edges of the frame. Each figure at the edge has visibly more threads radiating from them than the central figure — a dense tangle of connections blooming outward beyond the frame. The central figure casts no shadow. The edge figures are luminous and multiply-connected. The web is asymmetric, not a neat circle. Dark indigo background, warm amber thread glow, painterly texture. No text, no numbers, no labels, no charts, no symbols.",
+  "model": "DALL-E 3",
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "A central figure has fewer threads than every surrounding figure, who each have fewer threads than their neighbors — everyone is simultaneously peripheral to someone denser."
+}
